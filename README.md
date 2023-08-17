@@ -25,8 +25,3 @@ Outside of work, I have a few hobbies and activities that I really enjoy. For sp
   - Tensorflow
   - NumPy
   - pandas
-
-## Currently 📍
-- Searching for full time positions in Software Engineering
-- Grinding Leetcode
-- Working on a personal website/project portfolio
